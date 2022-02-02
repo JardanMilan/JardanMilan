@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JardanMilan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and JavaScript
+- 👀 I’m interested in Unity game development.
+- 🌱 I’m currently learning JavaScript, Swift and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Discord Okee#4563
