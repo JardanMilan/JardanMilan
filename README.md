@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JardanMilan
-- 👀 I’m interested in Unity game development.
-- 🌱 I’m currently learning JavaScript, Swift and C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Discord Okee#4563
+My name is Milán, I'm from Hungary.
+I'm a high school freshman.
+I have always been fascinated by computers.
+I'm currently working on building my homelab.
